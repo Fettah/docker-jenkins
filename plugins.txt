@@ -1,0 +1,16 @@
+git
+docker-plugin
+cloudbees-folder
+antisamy-markup-formatter
+build-timeout
+credentials-binding
+timestamper
+ws-cleanup
+ant
+gradle
+workflow-aggregator
+github-organization-folder
+pipeline-stage-view
+ssh-slaves
+blueocean
+matrix-auth
